@@ -5,11 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steampower33)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steampower33)](https://solved.ac/steampower33/)
 
-# Skills 📚
+# Tech Stack 📚
 
-<div> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-squared logo=plusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-squared logo=plusplus&logoColor=white"/>
-  <img src-"https://img.shields. io/badge/Python-3776AB?style=flat-square& logo=Python& logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squared logo=JavaScript&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
