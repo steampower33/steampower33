@@ -1,4 +1,4 @@
-# I'm SeungMin Lee 🥳
+# 🥳 I'm SeungMin Lee
 
 # 🎖️ BOJ Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=steampower33)](https://solved.ac/steampower33/)
