@@ -12,14 +12,6 @@ Aspiring Graphics Engineer building projects to deepen technical expertise.
 </div>
 
 
-### ⚡ Motto
-
-```cpp
-while (isBlackBox) {
-    DiveDeep();
-}
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -31,20 +23,6 @@ while (isBlackBox) {
 | **Interests** | `Graphics Programming` `Compute Shader` `Physics Simulation` `GPU Architecture` |
 
 ---
-
-## 🚀 Representative Demos
-
-|<div align="center"> **XPBD Cloth Simulation**</div> |
-| --- |
-|[![XPBD Cloth Simulation in Vulkan](https://img.youtube.com/vi/nu1VZo1UNBs/maxresdefault.jpg)](https://www.youtube.com/watch?v=nu1VZo1UNBs)|
-|<div align="center">[Github Repo](https://github.com/steampower33/PhysixStudio)</div>|
-
-<br/>
-
-|<div align="center">**Real-time Volumetric Cloud** </div>|
-|---|
-|[![Real-time Volumetric Cloud in DX11](https://img.youtube.com/vi/an71mmn2r7w/maxresdefault.jpg)](https://www.youtube.com/watch?v=an71mmn2r7w)|
-|<div align="center">[Github Repo](https://github.com/steampower33/RayMarching-DX)</div>|
 
 ### 🧩 Problem Solving Stats
 
