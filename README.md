@@ -28,7 +28,4 @@ Aspiring Graphics Engineer building projects to deepen technical expertise.
 
 <div align="left">
 <img src="https://leetcard.jacoblin.cool/steampower33" height="150" alt="LeetCode Stats" />
-<a href="https://solved.ac/steampower33/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=steampower33" height="150" alt="Solved.ac Profile" />
-</a>
 </div>
