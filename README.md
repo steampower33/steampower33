@@ -1,6 +1,6 @@
-# Hi there, I'm Seungmin Lee! 👋
+# Hi there, I'm SEUNGMIN LEE
 <div align="center">
-Aspiring Graphics Engineer building projects to deepen technical expertise.
+Graphics Engineer
 </div>
 
 <br/>
