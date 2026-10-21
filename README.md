@@ -1,9 +1,4 @@
 # Hi there, I'm SEUNGMIN LEE
-<div align="center">
-Graphics Engineer
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://steampower33.github.io/projects/">
