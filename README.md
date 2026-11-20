@@ -1,7 +1,7 @@
 # Hi there, I'm SEUNGMIN LEE
 
 <div align="center">
-  <a href="https://steampower33.github.io/projects/">
+  <a href="https://steampower33.github.io/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
