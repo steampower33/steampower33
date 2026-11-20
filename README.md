@@ -1,4 +1,4 @@
-# Hi there, I'm SEUNGMIN LEE
+# SEUNGMIN LEE
 
 <div align="center">
   <a href="https://steampower33.github.io/">
